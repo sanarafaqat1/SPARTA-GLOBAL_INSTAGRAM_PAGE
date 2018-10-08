@@ -1,0 +1,87 @@
+body {
+  background-color: white;
+}
+div {
+}
+.container {
+
+}
+
+.left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  padding-top: 5%;
+}
+.right {
+  width: 50%;
+  padding-top: 10%;
+
+}
+.Logo {
+   display: block;
+  margin-top: -43%;
+  margin-left: 20%;
+  display: block;
+  margin-left: 103%;
+  margin-right: -29%;
+  margin-top: -109%;
+  width: 23%;
+  /* padding-top: 5%; */
+}
+.pic{
+  display: flex;
+  padding-left: 100%;
+}
+.button-fb {
+  display: flex;
+  padding-left: 114%;
+  align-items: center;
+}
+.form {
+  display: flex;
+  padding-left: 108%;
+  padding-top: 5%;
+}
+.form-fullname {
+  display: flex;
+  padding-left: 108%;
+  padding-top: 1%;
+}
+.form-username{
+  display: flex;
+  padding-left: 108%;
+  padding-top: 1%;
+}
+.form-password {
+  display: flex;
+  padding-left: 108%;
+  padding-top: 1%;
+}
+.primary {
+  width: 200%;
+}
+.sect-2 {
+  display: flex;
+}
+.button-next {
+  display: flex;
+  padding-top: 3%;
+  padding-left: 114%;
+  align-items: center;
+}
+.pic-bottom {
+  display: flex;
+  padding-left: 100%;
+}
+.pic-login {
+  display: flex;
+  padding-left: 97%;
+}
+.row{
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+  padding-left: 97%;
+}
